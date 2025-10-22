@@ -19,8 +19,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "AI Disaster Alert System",
+  description: "Real-time disaster monitoring and early warning system for India",
 };
 
 export default function RootLayout({
